@@ -1,4 +1,4 @@
-# tool_template_ocatave
+# tool_template_octave
 
 This is the template for a generic containerized Octave/Matlab tool. This template can be used to generate new Github repositories from it.
 
